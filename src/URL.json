@@ -1,0 +1,8 @@
+{
+    "adminlLogin":"http://18.217.92.78:5000/api/v1/admin/login",
+    "adminlLogout":"http://18.217.92.78:5000/api/v1/admin/logout",
+    "adminChangePassword":"http://18.217.92.78:5000/api/v1/admin/changePassword",
+    "adminlForgotPassword":"http://18.217.92.78:5000/api/v1/admin/forgotPassword",
+    "adminlSetPassword":"http://18.217.92.78:5000/api/v1/admin/setPassword?passwordToken=c5ede829-1ebb-4c85-8223-7b8c6a7a5b60",
+    "adminrefresh":"http://18.217.92.78:5000/api/v1/admin/refreshAccessToken"   
+}
